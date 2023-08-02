@@ -1,0 +1,1 @@
+A project for astrology sign fans. Upon user interaction, a "random" message displaying their 1. Zodiac Sign 2. Astrological predictions 3. Lucky Number
