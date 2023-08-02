@@ -24,8 +24,9 @@ You can try out the Astrological Message Generator [here](link_to_live_demo).
 ## Technologies Used
 
 - HTML
-- Bootstrap
+- CSS
 - JavaScript
+- Pre-Designed Using Bootstrap
 
 ## How to Use
 
