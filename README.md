@@ -1,4 +1,4 @@
-# AstrologicalMessageGenerator
+
 # Astrological Message Generator
 
 //![Astrological Symbols](link_to_astrological_symbols.png)
